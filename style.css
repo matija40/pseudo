@@ -1,0 +1,3 @@
+li:first-child{font-weight: bold;}
+[target]::after{content: "->";}
+li:nth-child(2n){font-style: italic;}
